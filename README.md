@@ -51,3 +51,7 @@
 *  Install [Sublime Text 2](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.1%20x64%20Setup.exe) 
 
 
+## Issues
+Report any installation issues at https://github.com/SAPIndiaDevCamp/12-10-ROR-Installation/issues.
+
+
